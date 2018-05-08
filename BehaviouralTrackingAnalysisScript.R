@@ -45,11 +45,12 @@ processed.data.list <- raw.data %>%
 
 processed.data.frame <- data.frame(Reduce(rbind, processed.data.list));
 
-total.visited.sites <- processed.data.list %>%
-  filter(firstParty == TRUE);
+########################### Visited vs Non-Visited Web site starts ###################
+total.visited.sites <- processed.data.frame %>%
+  dplyr::filter(firstParty == TRUE);
 
 total.non.visited.sites <- processed.data.frame %>%
-  filter(firstParty == FALSE);
+  dplyr::filter(firstParty == FALSE);
 
 websites.stats <- data.frame(
   variable = c("Visited Websites", "Non-visited websites"),
@@ -98,7 +99,7 @@ pie <- pie +
 print(pie);
 
 
-
+########################### Visited vs Non-Visited Web site ends###################
 
 # find the top 10 websites that have the most number of third connections
 
