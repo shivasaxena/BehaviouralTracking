@@ -7,27 +7,22 @@
 
 
 #import the necessory libraries required
-#install.packages("dplyr", dep = TRUE);
-#install.packages("ggplot2", dep = TRUE);
-#install.packages("rjson", dep = TRUE);
-#install.packages("tidyverse", dep = TRUE);
-#install.packages("rlist", dep = TRUE);
+install.packages("dplyr", dep = TRUE);
+install.packages("ggplot2", dep = TRUE);
+install.packages("rjson", dep = TRUE);
+install.packages("tidyverse", dep = TRUE);
+install.packages("rlist", dep = TRUE);
 
 
-library("dplyr")
-
-library("ggplot2")
-
-library("rjson")
-
-library("tidyverse")
-
-library("rlist")
-
+library("dplyr");
+library("ggplot2");
+library("rjson");
+library("tidyverse");
+library("rlist");
 
 #Loading RAW JSON data collected for the websites into vaiable.
 raw.data <-
-  fromJSON(file = "C:\\Users\\i336590\\Downloads\\lightbeamData-89-visited-91-websites-clean.json",
+  fromJSON(file = "lightbeamData.json",
            method = "C",
            unexpected.escape = "error")
 
