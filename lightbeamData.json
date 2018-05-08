@@ -1,0 +1,6929 @@
+{
+  "1.qtmojo.com": {
+    "hostname": "1.qtmojo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "36fb61b0.akstat.io": {
+    "hostname": "36fb61b0.akstat.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.microsoft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "39d0825d09f05.cdn.sohucs.com": {
+    "hostname": "39d0825d09f05.cdn.sohucs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "4953227.fls.doubleclick.net": {
+    "hostname": "4953227.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "4954221.fls.doubleclick.net": {
+    "hostname": "4954221.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "5b0988e595225.cdn.sohucs.com": {
+    "hostname": "5b0988e595225.cdn.sohucs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "6355556.fls.doubleclick.net": {
+    "hostname": "6355556.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "8017305.fls.doubleclick.net": {
+    "hostname": "8017305.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "8166291.fls.doubleclick.net": {
+    "hostname": "8166291.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.espncdn.com": {
+    "hostname": "a.espncdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.espn.com",
+      "www.espn.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.thumbs.redditmedia.com": {
+    "hostname": "a.thumbs.redditmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a1.alicdn.com": {
+    "hostname": "a1.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn",
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a1.espncdn.com": {
+    "hostname": "a1.espncdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.espn.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a3698060313.cdn.optimizely.com": {
+    "hostname": "a3698060313.cdn.optimizely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "outlook.live.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aan.amazon.in": {
+    "hostname": "aan.amazon.in",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aax-eu.amazon-adsystem.com": {
+    "hostname": "aax-eu.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.imdb.com",
+      "www.amazon.in",
+      "www.amazon.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aax.amazon-adsystem.com": {
+    "hostname": "aax.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "abs.twimg.com": {
+    "hostname": "abs.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "twitter.com",
+      "www.imdb.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ac.mmstat.com": {
+    "hostname": "ac.mmstat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "accounts.google.com": {
+    "hostname": "accounts.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "acdn.adnxs.com": {
+    "hostname": "acdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com",
+      "www.twitch.tv",
+      "www.paypal.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.gmw.cn": {
+    "hostname": "ad.gmw.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "gmw.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adbox.sina.com.cn": {
+    "hostname": "adbox.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adm.leju.com": {
+    "hostname": "adm.leju.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.csdn.net": {
+    "hostname": "ads.csdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.csdn.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.pubmatic.com": {
+    "hostname": "ads.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.rubiconproject.com": {
+    "hostname": "ads.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.yahoo.com": {
+    "hostname": "ads.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com",
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.ca": {
+    "hostname": "adservice.google.ca",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.ca"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.co.id": {
+    "hostname": "adservice.google.co.id",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.co.id"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.co.in": {
+    "hostname": "adservice.google.co.in",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.co.in",
+      "in.yahoo.com",
+      "www.reddit.com",
+      "www.ebay.com",
+      "www.twitch.tv",
+      "mail.ru",
+      "www.wikia.com",
+      "diply.com",
+      "www.espn.in",
+      "www.uptodown.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.co.jp": {
+    "hostname": "adservice.google.co.jp",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.co.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.co.uk": {
+    "hostname": "adservice.google.co.uk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com",
+      "in.yahoo.com",
+      "www.reddit.com",
+      "www.ebay.com",
+      "www.twitch.tv",
+      "mail.ru",
+      "www.wikia.com",
+      "www.espn.in",
+      "www.uptodown.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.au": {
+    "hostname": "adservice.google.com.au",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com.au"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.br": {
+    "hostname": "adservice.google.com.br",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com.br"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.hk": {
+    "hostname": "adservice.google.com.hk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com.hk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.mx": {
+    "hostname": "adservice.google.com.mx",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com.mx"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.pk": {
+    "hostname": "adservice.google.com.pk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com.pk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.tr": {
+    "hostname": "adservice.google.com.tr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com.tr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.tw": {
+    "hostname": "adservice.google.com.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com.tw"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com.ua": {
+    "hostname": "adservice.google.com.ua",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com.ua"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.de": {
+    "hostname": "adservice.google.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.es": {
+    "hostname": "adservice.google.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.fr": {
+    "hostname": "adservice.google.fr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.fr"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.it": {
+    "hostname": "adservice.google.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.pl": {
+    "hostname": "adservice.google.pl",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.pl"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.ru": {
+    "hostname": "adservice.google.ru",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adtech.nflximg.net": {
+    "hostname": "adtech.nflximg.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adv-sv-show.focus.cn": {
+    "hostname": "adv-sv-show.focus.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adv-sv-stat.focus.cn": {
+    "hostname": "adv-sv-stat.focus.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ae01.alicdn.com": {
+    "hostname": "ae01.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aecpm.alicdn.com": {
+    "hostname": "aecpm.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aelego.aliexpress.com": {
+    "hostname": "aelego.aliexpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aeu.alicdn.com": {
+    "hostname": "aeu.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "afp.alicdn.com": {
+    "hostname": "afp.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "gmw.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "afpeng.alimama.com": {
+    "hostname": "afpeng.alimama.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "gmw.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "afpmm.alicdn.com": {
+    "hostname": "afpmm.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "gmw.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "afptrack.alimama.com": {
+    "hostname": "afptrack.alimama.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "gmw.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aic.hainan.gov.cn": {
+    "hostname": "aic.hainan.gov.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tianya.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.blogger.com",
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ald.taobao.com": {
+    "hostname": "ald.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "world.taobao.com",
+      "err.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aldh5.tmall.com": {
+    "hostname": "aldh5.tmall.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "amplify.outbrain.com": {
+    "hostname": "amplify.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "amplifypixel.outbrain.com": {
+    "hostname": "amplifypixel.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.twitter.com": {
+    "hostname": "analytics.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "twitter.com",
+      "wordpress.com",
+      "www.microsoft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.m.jd.com": {
+    "hostname": "api.m.jd.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.mixpanel.com": {
+    "hostname": "api.mixpanel.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.pixnet.cc": {
+    "hostname": "api.pixnet.cc",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.twitch.tv": {
+    "hostname": "api.twitch.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apis.google.com": {
+    "hostname": "apis.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.co.in",
+      "www.google.com",
+      "www.google.co.jp",
+      "www.google.co.uk",
+      "www.google.de",
+      "www.google.ru",
+      "www.google.fr",
+      "www.google.com.br",
+      "www.google.com.hk",
+      "www.google.it",
+      "www.google.es",
+      "www.google.ca",
+      "www.google.com.mx",
+      "www.google.com.au",
+      "www.google.com.tw",
+      "www.pinterest.com",
+      "www.google.com.tr",
+      "www.google.pl",
+      "www.google.co.id",
+      "www.google.com.ar",
+      "www.google.com.pk",
+      "www.google.com.ua"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apiservices.krxd.net": {
+    "hostname": "apiservices.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "app.data.qq.com": {
+    "hostname": "app.data.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.adobedtm.com": {
+    "hostname": "assets.adobedtm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com",
+      "www.adobe.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.alicdn.com": {
+    "hostname": "assets.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.nflxext.com": {
+    "hostname": "assets.nflxext.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.onestore.ms": {
+    "hostname": "assets.onestore.ms",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.microsoft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "at.alicdn.com": {
+    "hostname": "at.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com",
+      "world.taobao.com",
+      "err.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "atanx.alicdn.com": {
+    "hostname": "atanx.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com",
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "auth.gfx.ms": {
+    "hostname": "auth.gfx.ms",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.microsoft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "auto.sina.com.cn": {
+    "hostname": "auto.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "avatar.csdn.net": {
+    "hostname": "avatar.csdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.csdn.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "avatars.mds.yandex.net": {
+    "hostname": "avatars.mds.yandex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yandex.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "awaps.yandex.net": {
+    "hostname": "awaps.yandex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yandex.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "az725175.vo.msecnd.net": {
+    "hostname": "az725175.vo.msecnd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "outlook.live.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.scorecardresearch.com": {
+    "hostname": "b.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com",
+      "coccoc.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.thumbs.redditmedia.com": {
+    "hostname": "b.thumbs.redditmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b92.yahoo.co.jp": {
+    "hostname": "b92.yahoo.co.jp",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "baidu.com": {
+    "hostname": "baidu.com",
+    "favicon": "http://baidu.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.baidu.com"
+    ]
+  },
+  "bar.tmall.com": {
+    "hostname": "bar.tmall.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com",
+      "coccoc.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon-apac-hkg1.rubiconproject.com": {
+    "hostname": "beacon-apac-hkg1.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.krxd.net": {
+    "hostname": "beacon.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.sina.com.cn": {
+    "hostname": "beacon.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.tingyun.com": {
+    "hostname": "beacon.tingyun.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.csdn.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.wikia-services.com": {
+    "hostname": "beacon.wikia-services.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bid.g.doubleclick.net": {
+    "hostname": "bid.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "btrace.qq.com": {
+    "hostname": "btrace.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "btrace.video.qq.com": {
+    "hostname": "btrace.video.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.amazon-adsystem.com": {
+    "hostname": "c.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.cnzz.com": {
+    "hostname": "c.cnzz.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.go-mpulse.net": {
+    "hostname": "c.go-mpulse.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.microsoft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cart.taobao.com": {
+    "hostname": "cart.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "world.taobao.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.adnxs.com": {
+    "hostname": "cdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.cnn.com": {
+    "hostname": "cdn.cnn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "edition.cnn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.diply.com": {
+    "hostname": "cdn.diply.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "diply.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.krxd.net": {
+    "hostname": "cdn.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.mxpnl.com": {
+    "hostname": "cdn.mxpnl.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.optimizely.com": {
+    "hostname": "cdn.optimizely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "outlook.live.com",
+      "www.nicovideo.jp",
+      "edition.cnn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.sstatic.net": {
+    "hostname": "cdn.sstatic.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.syndication.twimg.com": {
+    "hostname": "cdn.syndication.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.imdb.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdp.aliexpress.com": {
+    "hostname": "cdp.aliexpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cds.3.cn": {
+    "hostname": "cds.3.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "certify.alexametrics.com": {
+    "hostname": "certify.alexametrics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn",
+      "gmw.cn",
+      "coccoc.com",
+      "www.tianya.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cfl.dropboxstatic.com": {
+    "hostname": "cfl.dropboxstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ckm.iqiyi.com": {
+    "hostname": "ckm.iqiyi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cl.webterren.com": {
+    "hostname": "cl.webterren.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn",
+      "gmw.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cl3.webterren.com": {
+    "hostname": "cl3.webterren.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn",
+      "gmw.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cl5.webterren.com": {
+    "hostname": "cl5.webterren.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clc.stackoverflow.com": {
+    "hostname": "clc.stackoverflow.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "client-event-reporter.twitch.tv": {
+    "hostname": "client-event-reporter.twitch.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.adform.net": {
+    "hostname": "cm.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.g.doubleclick.net": {
+    "hostname": "cm.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com",
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.l.qq.com": {
+    "hostname": "cm.l.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cms.quantserve.com": {
+    "hostname": "cms.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "coccoc.com": {
+    "hostname": "coccoc.com",
+    "favicon": "http://coccoc.com/themes/default/browser/favicon_32.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "d-cache.microadinc.com",
+      "www.google-analytics.com",
+      "bat.bing.com",
+      "d-track.send.microadinc.com",
+      "www.youtube.com",
+      "www.google.com",
+      "www.facebook.com",
+      "www.googletagmanager.com",
+      "static.xx.fbcdn.net",
+      "www.gstatic.com",
+      "www.googleadservices.com",
+      "connect.facebook.net",
+      "googleads.g.doubleclick.net",
+      "s.ytimg.com",
+      "static.doubleclick.net",
+      "www.google.co.in",
+      "d31qbv1cthcecs.cloudfront.net",
+      "b.scorecardresearch.com",
+      "mc.yandex.ru",
+      "certify.alexametrics.com"
+    ]
+  },
+  "code.clickcease.com": {
+    "hostname": "code.clickcease.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "codex.nflxext.com": {
+    "hostname": "codex.nflxext.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "collect.tianya.cn": {
+    "hostname": "collect.tianya.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tianya.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "collector.githubapp.com": {
+    "hostname": "collector.githubapp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "github.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "completion.amazon.co.uk": {
+    "hostname": "completion.amazon.co.uk",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.de",
+      "www.amazon.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.instagram.com",
+      "imgur.com",
+      "www.aliexpress.com",
+      "wordpress.com",
+      "www.imdb.com",
+      "www.pinterest.com",
+      "coccoc.com",
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "content.jwplatform.com": {
+    "hostname": "content.jwplatform.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "diply.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "count.taobao.com": {
+    "hostname": "count.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "world.taobao.com",
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "countess.twitch.tv": {
+    "hostname": "countess.twitch.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cpro.baidustatic.com": {
+    "hostname": "cpro.baidustatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.youth.cn",
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cre.mix.sina.com.cn": {
+    "hostname": "cre.mix.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csdnimg.cn": {
+    "hostname": "csdnimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.csdn.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "current.sina.com.cn": {
+    "hostname": "current.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cvp.twitch.tv": {
+    "hostname": "cvp.twitch.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d-cache.microadinc.com": {
+    "hostname": "d-cache.microadinc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "coccoc.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d-track.send.microadinc.com": {
+    "hostname": "d-track.send.microadinc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "coccoc.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d.agkn.com": {
+    "hostname": "d.agkn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d.jd.com": {
+    "hostname": "d.jd.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d.webterren.com": {
+    "hostname": "d.webterren.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d1.biz.itc.cn": {
+    "hostname": "d1.biz.itc.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d1.sina.com.cn": {
+    "hostname": "d1.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d1.sinaimg.cn": {
+    "hostname": "d1.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d1z2jf7jlzjs58.cloudfront.net": {
+    "hostname": "d1z2jf7jlzjs58.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d2.leju.com": {
+    "hostname": "d2.leju.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d2.sina.com.cn": {
+    "hostname": "d2.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d3.sina.com.cn": {
+    "hostname": "d3.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d31qbv1cthcecs.cloudfront.net": {
+    "hostname": "d31qbv1cthcecs.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn",
+      "gmw.cn",
+      "coccoc.com",
+      "www.tianya.cn",
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d6.sina.com.cn": {
+    "hostname": "d6.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d8.sina.com.cn": {
+    "hostname": "d8.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d9.sina.com.cn": {
+    "hostname": "d9.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "df.tanx.com": {
+    "hostname": "df.tanx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn",
+      "www.sohu.com",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dh.serving-sys.com": {
+    "hostname": "dh.serving-sys.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "diply.com": {
+    "hostname": "diply.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn.diply.com",
+      "www.googletagservices.com",
+      "securepubads.g.doubleclick.net",
+      "content.jwplatform.com",
+      "adservice.google.co.in",
+      "tpc.googlesyndication.com"
+    ]
+  },
+  "dis.criteo.com": {
+    "hostname": "dis.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dis.us.criteo.com": {
+    "hostname": "dis.us.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dol.tianya.cn": {
+    "hostname": "dol.tianya.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tianya.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dp3.qq.com": {
+    "hostname": "dp3.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com",
+      "www.microsoft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ds.reson8.com": {
+    "hostname": "ds.reson8.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dslb.cdn.krcom.cn": {
+    "hostname": "dslb.cdn.krcom.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsum-sec.casalemedia.com": {
+    "hostname": "dsum-sec.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dup.baidustatic.com": {
+    "hostname": "dup.baidustatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dz1vmszs6rjp8.cloudfront.net": {
+    "hostname": "dz1vmszs6rjp8.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ebayinc.demdex.net": {
+    "hostname": "ebayinc.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eclick.baidu.com": {
+    "hostname": "eclick.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ecpm.tanx.com": {
+    "hostname": "ecpm.tanx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "edition.cnn.com": {
+    "hostname": "edition.cnn.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "edition.i.cdn.cnn.com",
+      "cdn.cnn.com",
+      "cdn.optimizely.com",
+      "js-sec.indexww.com",
+      "ssl.cdn.turner.com",
+      "native.sharethrough.com"
+    ]
+  },
+  "edition.i.cdn.cnn.com": {
+    "hostname": "edition.i.cdn.cnn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "edition.cnn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn0.gstatic.com": {
+    "hostname": "encrypted-tbn0.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn1.gstatic.com": {
+    "hostname": "encrypted-tbn1.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn2.gstatic.com": {
+    "hostname": "encrypted-tbn2.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn3.gstatic.com": {
+    "hostname": "encrypted-tbn3.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "err.tmall.com": {
+    "hostname": "err.tmall.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "g.alicdn.com",
+      "at.alicdn.com",
+      "img.alicdn.com",
+      "gtms02.alicdn.com",
+      "ald.taobao.com",
+      "log.mmstat.com"
+    ]
+  },
+  "ethn.io": {
+    "hostname": "ethn.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "experiment.appadhoc.com": {
+    "hostname": "experiment.appadhoc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.csdn.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "f10.baidu.com": {
+    "hostname": "f10.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "f11.baidu.com": {
+    "hostname": "f11.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "f12.baidu.com": {
+    "hostname": "f12.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fandom.wikia.com": {
+    "hostname": "fandom.wikia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fex.bdstatic.com": {
+    "hostname": "fex.bdstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "file.focus-res.cn": {
+    "hostname": "file.focus-res.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "finance.sina.com.cn": {
+    "hostname": "finance.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fls-eu.amazon.in": {
+    "hostname": "fls-eu.amazon.in",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fls-na.amazon.com": {
+    "hostname": "fls-na.amazon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.com",
+      "www.imdb.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "imgur.com",
+      "www.msn.com",
+      "wordpress.com",
+      "www.onclkds.com",
+      "www.wikia.com",
+      "www.blogger.com",
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fourier.alibaba.com": {
+    "hostname": "fourier.alibaba.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fragment.tmall.com": {
+    "hostname": "fragment.tmall.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fw.qq.com": {
+    "hostname": "fw.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g.alicdn.com": {
+    "hostname": "g.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com",
+      "world.taobao.com",
+      "weibo.com",
+      "www.aliexpress.com",
+      "err.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "geoip.nekudo.com": {
+    "hostname": "geoip.nekudo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "imgur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gia.jd.com": {
+    "hostname": "gia.jd.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "github.com": {
+    "hostname": "github.com",
+    "favicon": "https://assets-cdn.github.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google-analytics.com",
+      "collector.githubapp.com"
+    ]
+  },
+  "gj.mmstat.com": {
+    "hostname": "gj.mmstat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "global.jd.com": {
+    "hostname": "global.jd.com",
+    "favicon": "https://www.jd.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "misc.360buyimg.com",
+      "wl.jd.com",
+      "static.360buyimg.com",
+      "img12.360buyimg.com",
+      "img14.360buyimg.com",
+      "img11.360buyimg.com",
+      "img10.360buyimg.com",
+      "cds.3.cn",
+      "mercury.jd.com",
+      "passport.jd.com",
+      "api.m.jd.com",
+      "m.360buyimg.com",
+      "d.jd.com",
+      "gia.jd.com",
+      "img13.360buyimg.com"
+    ]
+  },
+  "gm.mmstat.com": {
+    "hostname": "gm.mmstat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com",
+      "world.taobao.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gma.alicdn.com": {
+    "hostname": "gma.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn",
+      "www.sohu.com",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gmw.cn": {
+    "hostname": "gmw.cn",
+    "favicon": "http://gmw.cn/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "img.gmw.cn",
+      "ad.gmw.cn",
+      "afpmm.alicdn.com",
+      "afpeng.alimama.com",
+      "cl.webterren.com",
+      "cl3.webterren.com",
+      "afp.alicdn.com",
+      "afptrack.alimama.com",
+      "www.google-analytics.com",
+      "stats.g.doubleclick.net",
+      "d31qbv1cthcecs.cloudfront.net",
+      "certify.alexametrics.com"
+    ]
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "in.yahoo.com",
+      "www.reddit.com",
+      "www.ebay.com",
+      "www.msn.com",
+      "wordpress.com",
+      "www.onclkds.com",
+      "mail.ru",
+      "coccoc.com",
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads4.g.doubleclick.net": {
+    "hostname": "googleads4.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "goutong.baidu.com": {
+    "hostname": "goutong.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.csdn.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gpsfront.aliexpress.com": {
+    "hostname": "gpsfront.aliexpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gql.twitch.tv": {
+    "hostname": "gql.twitch.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gsp0.baidu.com": {
+    "hostname": "gsp0.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gsp1.baidu.com": {
+    "hostname": "gsp1.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gss0.bdstatic.com": {
+    "hostname": "gss0.bdstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gss1.bdstatic.com": {
+    "hostname": "gss1.bdstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gss2.bdstatic.com": {
+    "hostname": "gss2.bdstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gtms01.alicdn.com": {
+    "hostname": "gtms01.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gtms02.alicdn.com": {
+    "hostname": "gtms02.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "err.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gtms03.alicdn.com": {
+    "hostname": "gtms03.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gtms04.alicdn.com": {
+    "hostname": "gtms04.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn",
+      "www.sohu.com",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gw.alicdn.com": {
+    "hostname": "gw.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "world.taobao.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "h5api.m.taobao.com": {
+    "hostname": "h5api.m.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "world.taobao.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "h5like.qq.com": {
+    "hostname": "h5like.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hm.baidu.com": {
+    "hostname": "hm.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn",
+      "www.csdn.net",
+      "www.tianya.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hotword.sogoucdn.com": {
+    "hostname": "hotword.sogoucdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hq.sinajs.cn": {
+    "hostname": "hq.sinajs.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hqm.stock.sohu.com": {
+    "hostname": "hqm.stock.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.alicdn.com": {
+    "hostname": "i.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.ebayimg.com": {
+    "hostname": "i.ebayimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.go.sohu.com": {
+    "hostname": "i.go.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.gtimg.cn": {
+    "hostname": "i.gtimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.imgur.com": {
+    "hostname": "i.imgur.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "imgur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.match.qq.com": {
+    "hostname": "i.match.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.sso.sina.com.cn": {
+    "hostname": "i.sso.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.stack.imgur.com": {
+    "hostname": "i.stack.imgur.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.ytimg.com": {
+    "hostname": "i.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i0.itc.cn": {
+    "hostname": "i0.itc.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i0.sinaimg.cn": {
+    "hostname": "i0.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i1.itc.cn": {
+    "hostname": "i1.itc.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i1.sinaimg.cn": {
+    "hostname": "i1.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i11.esfimg.com": {
+    "hostname": "i11.esfimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i2-driihkyprvkduxpmdfdkeazxyxycgk.init.cedexis-radar.net": {
+    "hostname": "i2-driihkyprvkduxpmdfdkeazxyxycgk.init.cedexis-radar.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tumblr.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i2-nhykgmunwnoczudicvwmyxdzkcnnzn.init.cedexis-radar.net": {
+    "hostname": "i2-nhykgmunwnoczudicvwmyxdzkcnnzn.init.cedexis-radar.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linkedin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i2.itc.cn": {
+    "hostname": "i2.itc.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i2.sinaimg.cn": {
+    "hostname": "i2.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i3.itc.cn": {
+    "hostname": "i3.itc.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i3.sinaimg.cn": {
+    "hostname": "i3.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ia.media-imdb.com": {
+    "hostname": "ia.media-imdb.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.imdb.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idpix.media6degrees.com": {
+    "hostname": "idpix.media6degrees.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.microsoft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "im-x.jd.com": {
+    "hostname": "im-x.jd.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image.sinajs.cn": {
+    "hostname": "image.sinajs.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imageproxy.pimg.tw": {
+    "hostname": "imageproxy.pimg.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images-eu.ssl-images-amazon.com": {
+    "hostname": "images-eu.ssl-images-amazon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.in",
+      "www.amazon.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images-fe.ssl-images-amazon.com": {
+    "hostname": "images-fe.ssl-images-amazon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.co.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images-na.ssl-images-amazon.com": {
+    "hostname": "images-na.ssl-images-amazon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.com",
+      "www.imdb.com",
+      "www.amazon.co.jp",
+      "www.amazon.in",
+      "www.amazon.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.apple.com": {
+    "hostname": "images.apple.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.apple.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.sohu.com": {
+    "hostname": "images.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imasdk.googleapis.com": {
+    "hostname": "imasdk.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img-ads.csdn.net": {
+    "hostname": "img-ads.csdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.csdn.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img-prod-cms-rt-microsoft-com.akamaized.net": {
+    "hostname": "img-prod-cms-rt-microsoft-com.akamaized.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.microsoft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.adbox.sina.com.cn": {
+    "hostname": "img.adbox.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.alicdn.com": {
+    "hostname": "img.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com",
+      "world.taobao.com",
+      "www.sina.com.cn",
+      "www.alipay.com",
+      "www.youth.cn",
+      "err.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.gmw.cn": {
+    "hostname": "img.gmw.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "gmw.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.imgsmail.ru": {
+    "hostname": "img.imgsmail.ru",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mail.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.mp.sohu.com": {
+    "hostname": "img.mp.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.t.sinajs.cn": {
+    "hostname": "img.t.sinajs.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.utdstc.com": {
+    "hostname": "img.utdstc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.uptodown.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img1.360buyimg.com": {
+    "hostname": "img1.360buyimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img1.gtimg.com": {
+    "hostname": "img1.gtimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img10.360buyimg.com": {
+    "hostname": "img10.360buyimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img11.360buyimg.com": {
+    "hostname": "img11.360buyimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img12.360buyimg.com": {
+    "hostname": "img12.360buyimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img13.360buyimg.com": {
+    "hostname": "img13.360buyimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img14.360buyimg.com": {
+    "hostname": "img14.360buyimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imgcache.qq.com": {
+    "hostname": "imgcache.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imgnode.gtimg.cn": {
+    "hostname": "imgnode.gtimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imgur.com": {
+    "hostname": "imgur.com",
+    "favicon": "https://s.imgur.com/images/favicon-32x32.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.facebook.com",
+      "s.imgur.com",
+      "i.imgur.com",
+      "static.xx.fbcdn.net",
+      "fonts.gstatic.com",
+      "sb.scorecardresearch.com",
+      "www.google-analytics.com",
+      "secure.quantserve.com",
+      "p.imgur.com",
+      "rules.quantcount.com",
+      "connect.facebook.net",
+      "platform.twitter.com",
+      "geoip.nekudo.com",
+      "pixel.quantserve.com",
+      "syndication.twitter.com"
+    ]
+  },
+  "imp.ad-plus.cn": {
+    "hostname": "imp.ad-plus.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imp.go.sohu.com": {
+    "hostname": "imp.go.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imp.optaim.com": {
+    "hostname": "imp.optaim.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "in.yahoo.com": {
+    "hostname": "in.yahoo.com",
+    "favicon": "https://mbp.yimg.com/sy/rz/l/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "sb.scorecardresearch.com",
+      "ads.pubmatic.com",
+      "pagead2.googlesyndication.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.co.in",
+      "adservice.google.com",
+      "tpc.googlesyndication.com",
+      "www.google.com",
+      "ads.rubiconproject.com",
+      "cm.g.doubleclick.net",
+      "optimized-by.rubiconproject.com",
+      "tap2-cdn.rubiconproject.com",
+      "beacon-apac-hkg1.rubiconproject.com",
+      "encrypted-tbn0.gstatic.com",
+      "encrypted-tbn2.gstatic.com",
+      "encrypted-tbn1.gstatic.com",
+      "encrypted-tbn3.gstatic.com",
+      "ads.yahoo.com",
+      "s.yimg.com"
+    ]
+  },
+  "inews.gtimg.com": {
+    "hostname": "inews.gtimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "int.dpool.sina.com.cn": {
+    "hostname": "int.dpool.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "interest.mix.sina.com.cn": {
+    "hostname": "interest.mix.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ir.ebaystatic.com": {
+    "hostname": "ir.ebaystatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "irc-ws.chat.twitch.tv": {
+    "hostname": "irc-ws.chat.twitch.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "is.alicdn.com": {
+    "hostname": "is.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jqmt.qq.com": {
+    "hostname": "jqmt.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js-sec.indexww.com": {
+    "hostname": "js-sec.indexww.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "stackoverflow.com",
+      "edition.cnn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.aq.qq.com": {
+    "hostname": "js.aq.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.data.auto.qq.com": {
+    "hostname": "js.data.auto.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.sohu.com": {
+    "hostname": "js.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.t.sinajs.cn": {
+    "hostname": "js.t.sinajs.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js1.t.sinajs.cn": {
+    "hostname": "js1.t.sinajs.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jsqmt.qq.com": {
+    "hostname": "jsqmt.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jss.t.sinajs.cn": {
+    "hostname": "jss.t.sinajs.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ju.taobao.com": {
+    "hostname": "ju.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "world.taobao.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "k.sohu.com": {
+    "hostname": "k.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "l.qq.com": {
+    "hostname": "l.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "libs.pixfs.net": {
+    "hostname": "libs.pixfs.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lighthouse.aliexpress.com": {
+    "hostname": "lighthouse.aliexpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "limg.imgsmail.ru": {
+    "hostname": "limg.imgsmail.ru",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mail.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "log.mmstat.com": {
+    "hostname": "log.mmstat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com",
+      "world.taobao.com",
+      "weibo.com",
+      "err.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "login.360.cn": {
+    "hostname": "login.360.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "login.sina.com.cn": {
+    "hostname": "login.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "login.taobao.com": {
+    "hostname": "login.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "logx.optimizely.com": {
+    "hostname": "logx.optimizely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "outlook.live.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.360buyimg.com": {
+    "hostname": "m.360buyimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.adnxs.com": {
+    "hostname": "m.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.hao123.com": {
+    "hostname": "m.hao123.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.media-amazon.com": {
+    "hostname": "m.media-amazon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.com",
+      "www.amazon.co.jp",
+      "www.amazon.in",
+      "www.amazon.de"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.simba.taobao.com": {
+    "hostname": "m.simba.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m1.auto.itc.cn": {
+    "hostname": "m1.auto.itc.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mail.ru": {
+    "hostname": "mail.ru",
+    "favicon": "https://limg.imgsmail.ru/re/i/favicon-e5142de215.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "limg.imgsmail.ru",
+      "img.imgsmail.ru",
+      "r.mradx.net",
+      "ok.ru",
+      "pagead2.googlesyndication.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.co.in",
+      "adservice.google.com",
+      "splash.radar.imgsmail.ru",
+      "www.tns-counter.ru",
+      "stat.radar.imgsmail.ru"
+    ]
+  },
+  "mainpage.pixfs.net": {
+    "hostname": "mainpage.pixfs.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "marketing.dropbox.com": {
+    "hostname": "marketing.dropbox.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mat1.gtimg.com": {
+    "hostname": "mat1.gtimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.adsrvr.org": {
+    "hostname": "match.adsrvr.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.sports.sohu.com": {
+    "hostname": "match.sports.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mbsug.ssl.so.com": {
+    "hostname": "mbsug.ssl.so.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mc.yandex.ru": {
+    "hostname": "mc.yandex.ru",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yandex.ru",
+      "wordpress.com",
+      "coccoc.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mem.gfx.ms": {
+    "hostname": "mem.gfx.ms",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.microsoft.com",
+      "www.office.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mercury.jd.com": {
+    "hostname": "mercury.jd.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "microsoftonline.com": {
+    "hostname": "microsoftonline.com",
+    "favicon": "chrome://global/skin/icons/warning-16.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "mini2015.qq.com": {
+    "hostname": "mini2015.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "misc.360buyimg.com": {
+    "hostname": "misc.360buyimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mmae.qtmojo.com": {
+    "hostname": "mmae.qtmojo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "monitor.clickcease.com": {
+    "hostname": "monitor.clickcease.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mscom.demdex.net": {
+    "hostname": "mscom.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.microsoft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "n.sinaimg.cn": {
+    "hostname": "n.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "native.sharethrough.com": {
+    "hostname": "native.sharethrough.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "edition.cnn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "news.sina.com.cn": {
+    "hostname": "news.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "news.sohu.com": {
+    "hostname": "news.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "news.youth.cn": {
+    "hostname": "news.youth.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "newspush.sinajs.cn": {
+    "hostname": "newspush.sinajs.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nexus.ensighten.com": {
+    "hostname": "nexus.ensighten.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.paypal.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nicolive.cdn.nimg.jp": {
+    "hostname": "nicolive.cdn.nimg.jp",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nicovideo.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nicovideo.cdn.nimg.jp": {
+    "hostname": "nicovideo.cdn.nimg.jp",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.nicovideo.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "notify.ssl.so.com": {
+    "hostname": "notify.ssl.so.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.so.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ok.ru": {
+    "hostname": "ok.ru",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mail.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "opehs.tanx.com": {
+    "hostname": "opehs.tanx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn",
+      "www.sohu.com",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "open.onebox.so.com": {
+    "hostname": "open.onebox.so.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.so.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "open.weather.sina.com.cn": {
+    "hostname": "open.weather.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "optimized-by.rubiconproject.com": {
+    "hostname": "optimized-by.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "outlook.live.com": {
+    "hostname": "outlook.live.com",
+    "favicon": "https://outlook.live.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "r1.res.office365.com",
+      "cdn.optimizely.com",
+      "az725175.vo.msecnd.net",
+      "r4.res.office365.com",
+      "a3698060313.cdn.optimizely.com",
+      "logx.optimizely.com"
+    ]
+  },
+  "p.baidu.com": {
+    "hostname": "p.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.imgur.com": {
+    "hostname": "p.imgur.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "imgur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.l.qq.com": {
+    "hostname": "p.l.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.rfihub.com": {
+    "hostname": "p.rfihub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.ssl.qhimg.com": {
+    "hostname": "p.ssl.qhimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn",
+      "www.so.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.ssl.qhmsg.com": {
+    "hostname": "p.ssl.qhmsg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.tanx.com": {
+    "hostname": "p.tanx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p0.ssl.qhimg.com": {
+    "hostname": "p0.ssl.qhimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p1.ssl.qhimg.com": {
+    "hostname": "p1.ssl.qhimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p2.ssl.qhimg.com": {
+    "hostname": "p2.ssl.qhimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p3.ssl.qhimg.com": {
+    "hostname": "p3.ssl.qhimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p4.ssl.qhimg.com": {
+    "hostname": "p4.ssl.qhimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p5.ssl.qhimg.com": {
+    "hostname": "p5.ssl.qhimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com",
+      "www.reddit.com",
+      "www.ebay.com",
+      "www.twitch.tv",
+      "www.msn.com",
+      "mail.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pages.tmall.com": {
+    "hostname": "pages.tmall.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "passport.alipay.com": {
+    "hostname": "passport.alipay.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "passport.baidu.com": {
+    "hostname": "passport.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "passport.jd.com": {
+    "hostname": "passport.jd.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "passport.tianya.cn": {
+    "hostname": "passport.tianya.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tianya.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "passport.weibo.com": {
+    "hostname": "passport.weibo.com",
+    "favicon": "https://passport.weibo.com/favicon.ico",
+    "firstPartyHostnames": [
+      "weibo.com",
+      "www.sina.com.cn"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "pb1.qujishu.com": {
+    "hostname": "pb1.qujishu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pbs.twimg.com": {
+    "hostname": "pbs.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.imdb.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "perf.mmstat.com": {
+    "hostname": "perf.mmstat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "phs.tanx.com": {
+    "hostname": "phs.tanx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn",
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pingfore.qq.com": {
+    "hostname": "pingfore.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pingjs.qq.com": {
+    "hostname": "pingjs.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pingtcss.qq.com": {
+    "hostname": "pingtcss.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.mathtag.com": {
+    "hostname": "pixel.mathtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.quantserve.com": {
+    "hostname": "pixel.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "imgur.com",
+      "wordpress.com",
+      "stackoverflow.com",
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.wp.com": {
+    "hostname": "pixel.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pl.hd.sohu.com": {
+    "hostname": "pl.hd.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "imgur.com",
+      "www.imdb.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "player.twitch.tv": {
+    "hostname": "player.twitch.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "popads-trustguard.cdn77-ssl.net": {
+    "hostname": "popads-trustguard.cdn77-ssl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.popads.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "portal-xiva.yandex.net": {
+    "hostname": "portal-xiva.yandex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yandex.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pos.baidu.com": {
+    "hostname": "pos.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.youth.cn",
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pubsub-edge.twitch.tv": {
+    "hostname": "pubsub-edge.twitch.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pv.csdn.net": {
+    "hostname": "pv.csdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.csdn.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pv.sohu.com": {
+    "hostname": "pv.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.3.cn": {
+    "hostname": "px.3.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "qos.report.qq.com": {
+    "hostname": "qos.report.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "qt.gtimg.cn": {
+    "hostname": "qt.gtimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "qzonestyle.gtimg.cn": {
+    "hostname": "qzonestyle.gtimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r.mradx.net": {
+    "hostname": "r.mradx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mail.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r.turn.com": {
+    "hostname": "r.turn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r1.res.office365.com": {
+    "hostname": "r1.res.office365.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "outlook.live.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r4.res.office365.com": {
+    "hostname": "r4.res.office365.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "outlook.live.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ra.gtimg.com": {
+    "hostname": "ra.gtimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "re.csdn.net": {
+    "hostname": "re.csdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.csdn.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "refer.wordpress.com": {
+    "hostname": "refer.wordpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rm.api.weibo.com": {
+    "hostname": "rm.api.weibo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rpt.cedexis.com": {
+    "hostname": "rpt.cedexis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linkedin.com",
+      "www.tumblr.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb-csync.smartadserver.com": {
+    "hostname": "rtb-csync.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rules.quantcount.com": {
+    "hostname": "rules.quantcount.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "imgur.com",
+      "stackoverflow.com",
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.amazon-adsystem.com": {
+    "hostname": "s.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.com",
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.btstatic.com": {
+    "hostname": "s.btstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.go.sohu.com": {
+    "hostname": "s.go.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.imgur.com": {
+    "hostname": "s.imgur.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "imgur.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.jtvnw.net": {
+    "hostname": "s.jtvnw.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.media-imdb.com": {
+    "hostname": "s.media-imdb.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.imdb.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.pimg.tw": {
+    "hostname": "s.pimg.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.pinimg.com": {
+    "hostname": "s.pinimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tumblr.com",
+      "www.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.pixanalytics.com": {
+    "hostname": "s.pixanalytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.pixfs.net": {
+    "hostname": "s.pixfs.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.qhupdate.com": {
+    "hostname": "s.qhupdate.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.so.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ssl.qhimg.com": {
+    "hostname": "s.ssl.qhimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ssl.qhmsg.com": {
+    "hostname": "s.ssl.qhmsg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.360.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.thebrighttag.com": {
+    "hostname": "s.thebrighttag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.weibo.com": {
+    "hostname": "s.weibo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn",
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.yimg.com": {
+    "hostname": "s.yimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com",
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ytimg.com": {
+    "hostname": "s.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "coccoc.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.bdstatic.com": {
+    "hostname": "s1.bdstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.baidu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.pimg.tw": {
+    "hostname": "s1.pimg.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.wp.com": {
+    "hostname": "s1.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s2.pimg.tw": {
+    "hostname": "s2.pimg.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s22.cnzz.com": {
+    "hostname": "s22.cnzz.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3.amazonaws.com": {
+    "hostname": "s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3.pfp.sina.net": {
+    "hostname": "s3.pfp.sina.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3.pimg.tw": {
+    "hostname": "s3.pimg.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s4.pimg.tw": {
+    "hostname": "s4.pimg.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s5.pimg.tw": {
+    "hostname": "s5.pimg.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s6.pimg.tw": {
+    "hostname": "s6.pimg.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s7.pimg.tw": {
+    "hostname": "s7.pimg.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s8.pimg.tw": {
+    "hostname": "s8.pimg.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s9.pimg.tw": {
+    "hostname": "s9.pimg.tw",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sax.sina.com.cn": {
+    "hostname": "sax.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "saxn.sina.com.cn": {
+    "hostname": "saxn.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com",
+      "www.reddit.com",
+      "www.linkedin.com",
+      "imgur.com",
+      "www.twitch.tv",
+      "www.tumblr.com",
+      "stackoverflow.com",
+      "www.imdb.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sbeacon.sina.com.cn": {
+    "hostname": "sbeacon.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scontent-bom1-1.xx.fbcdn.net": {
+    "hostname": "scontent-bom1-1.xx.fbcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.imdb.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "screen.aili.com": {
+    "hostname": "screen.aili.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sdk.accountkit.com": {
+    "hostname": "sdk.accountkit.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sdk.appadhoc.com": {
+    "hostname": "sdk.appadhoc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.csdn.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "search.szfw.org": {
+    "hostname": "search.szfw.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-us.imrworldwide.com": {
+    "hostname": "secure-us.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.adnxs.com": {
+    "hostname": "secure.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.leadback.advertising.com": {
+    "hostname": "secure.leadback.advertising.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.quantserve.com": {
+    "hostname": "secure.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "imgur.com",
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secureinclude.ebaystatic.com": {
+    "hostname": "secureinclude.ebaystatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securemetrics.apple.com": {
+    "hostname": "securemetrics.apple.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.apple.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.reddit.com",
+      "www.ebay.com",
+      "www.twitch.tv",
+      "www.wikia.com",
+      "diply.com",
+      "www.espn.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "show.re.taobao.com": {
+    "hostname": "show.re.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sin1-ib.adnxs.com": {
+    "hostname": "sin1-ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.yahoo.co.jp",
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "slog.sina.com.cn": {
+    "hostname": "slog.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "snap.licdn.com": {
+    "hostname": "snap.licdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "socm.dmp.360.cn": {
+    "hostname": "socm.dmp.360.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.so.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp.analytics.yahoo.com": {
+    "hostname": "sp.analytics.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "spade.twitch.tv": {
+    "hostname": "spade.twitch.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "splash.radar.imgsmail.ru": {
+    "hostname": "splash.radar.imgsmail.ru",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mail.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sports.sohu.com": {
+    "hostname": "sports.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "src.leju.com": {
+    "hostname": "src.leju.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "srv-2018-02-23-21.config.parsely.com": {
+    "hostname": "srv-2018-02-23-21.config.parsely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "srv-2018-02-23-21.pixel.parsely.com": {
+    "hostname": "srv-2018-02-23-21.pixel.parsely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "srv.main.ebayrtm.com": {
+    "hostname": "srv.main.ebayrtm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.cdn.turner.com": {
+    "hostname": "ssl.cdn.turner.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "edition.cnn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.google-analytics.com": {
+    "hostname": "ssl.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.twitch.tv",
+      "www.tumblr.com",
+      "www.popads.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.gstatic.com": {
+    "hostname": "ssl.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.fr",
+      "www.google.co.uk",
+      "www.google.ru",
+      "www.google.com.br",
+      "www.google.it",
+      "www.google.es",
+      "www.google.com.mx",
+      "www.google.com.au",
+      "www.google.com.tw",
+      "www.pinterest.com",
+      "www.google.com.tr",
+      "www.google.pl",
+      "www.google.com.ar",
+      "www.google.com.pk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stackoverflow.com": {
+    "hostname": "stackoverflow.com",
+    "favicon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "js-sec.indexww.com",
+      "i.stack.imgur.com",
+      "www.google-analytics.com",
+      "sb.scorecardresearch.com",
+      "secure.quantserve.com",
+      "cdn.sstatic.net",
+      "rules.quantcount.com",
+      "pixel.quantserve.com",
+      "clc.stackoverflow.com"
+    ]
+  },
+  "stags.bluekai.com": {
+    "hostname": "stags.bluekai.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stat.radar.imgsmail.ru": {
+    "hostname": "stat.radar.imgsmail.ru",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mail.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static-alias-1.360buyimg.com": {
+    "hostname": "static-alias-1.360buyimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static-cdn.jtvnw.net": {
+    "hostname": "static-cdn.jtvnw.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static-global-s-msn-com.akamaized.net": {
+    "hostname": "static-global-s-msn-com.akamaized.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.360buyimg.com": {
+    "hostname": "static.360buyimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.ads-twitter.com": {
+    "hostname": "static.ads-twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com",
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.doubleclick.net": {
+    "hostname": "static.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "coccoc.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.parsely.com": {
+    "hostname": "static.parsely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.tianyaui.com": {
+    "hostname": "static.tianyaui.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tianya.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.twitchcdn.net": {
+    "hostname": "static.twitchcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.xx.fbcdn.net": {
+    "hostname": "static.xx.fbcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.facebook.com",
+      "imgur.com",
+      "www.imdb.com",
+      "www.pinterest.com",
+      "coccoc.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "statics.itc.cn": {
+    "hostname": "statics.itc.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.instagram.com",
+      "www.imdb.com",
+      "www.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "gmw.cn",
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.wp.com": {
+    "hostname": "stats.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stc.utdstc.com": {
+    "hostname": "stc.utdstc.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.uptodown.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "strip.alicdn.com": {
+    "hostname": "strip.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "suggest.taobao.com": {
+    "hostname": "suggest.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.search.spotxchange.com": {
+    "hostname": "sync.search.spotxchange.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.teads.tv": {
+    "hostname": "sync.teads.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "twitter.com",
+      "imgur.com",
+      "www.imdb.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.co": {
+    "hostname": "t.co",
+    "favicon": "https://abs.twimg.com/favicons/favicon.ico",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "t.go.sohu.com": {
+    "hostname": "t.go.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.paypal.com": {
+    "hostname": "t.paypal.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.paypal.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.wayfair.com": {
+    "hostname": "t.wayfair.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t1.focus-img.cn": {
+    "hostname": "t1.focus-img.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t10.baidu.com": {
+    "hostname": "t10.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t11.baidu.com": {
+    "hostname": "t11.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t12.baidu.com": {
+    "hostname": "t12.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t2.focus-img.cn": {
+    "hostname": "t2.focus-img.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t3.focus-img.cn": {
+    "hostname": "t3.focus-img.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t4.focus-img.cn": {
+    "hostname": "t4.focus-img.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tap2-cdn.rubiconproject.com": {
+    "hostname": "tap2-cdn.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tce.alicdn.com": {
+    "hostname": "tce.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "world.taobao.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "thumbs.ebaystatic.com": {
+    "hostname": "thumbs.ebaystatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tmm.taobao.com": {
+    "hostname": "tmm.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "token.rubiconproject.com": {
+    "hostname": "token.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ebay.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ton.twimg.com": {
+    "hostname": "ton.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.imdb.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "top-tmm.taobao.com": {
+    "hostname": "top-tmm.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.tmall.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "in.yahoo.com",
+      "www.reddit.com",
+      "www.ebay.com",
+      "www.msn.com",
+      "diply.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tr.outbrain.com": {
+    "hostname": "tr.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "trace.qq.com": {
+    "hostname": "trace.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "translate.google.com": {
+    "hostname": "translate.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "translate.googleapis.com": {
+    "hostname": "translate.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tui.taobao.com": {
+    "hostname": "tui.taobao.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "world.taobao.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tva1.sinaimg.cn": {
+    "hostname": "tva1.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tva2.sinaimg.cn": {
+    "hostname": "tva2.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tva3.sinaimg.cn": {
+    "hostname": "tva3.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tva4.sinaimg.cn": {
+    "hostname": "tva4.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tvax3.sinaimg.cn": {
+    "hostname": "tvax3.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tvax4.sinaimg.cn": {
+    "hostname": "tvax4.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "twitter.com": {
+    "hostname": "twitter.com",
+    "favicon": "https://abs.twimg.com/favicons/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google-analytics.com",
+      "syndication.twitter.com",
+      "analytics.twitter.com",
+      "abs.twimg.com"
+    ]
+  },
+  "txt.go.sohu.com": {
+    "hostname": "txt.go.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ui.ptlogin2.qq.com": {
+    "hostname": "ui.ptlogin2.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "unagi-eu.amazon.com": {
+    "hostname": "unagi-eu.amazon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.de",
+      "www.amazon.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "usher.ttvnw.net": {
+    "hostname": "usher.ttvnw.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "v.qq.com": {
+    "hostname": "v.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "v.trustutn.org": {
+    "hostname": "v.trustutn.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youth.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "v2.sohu.com": {
+    "hostname": "v2.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "v4.passport.sohu.com": {
+    "hostname": "v4.passport.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vcdn.adnxs.com": {
+    "hostname": "vcdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "video-edge-3d7ae4.sjc01.hls.ttvnw.net": {
+    "hostname": "video-edge-3d7ae4.sjc01.hls.ttvnw.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "video-edge-aa1a42.sjc01.hls.ttvnw.net": {
+    "hostname": "video-edge-aa1a42.sjc01.hls.ttvnw.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "video-weaver.hkg01.hls.ttvnw.net": {
+    "hostname": "video-weaver.hkg01.hls.ttvnw.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.twitch.tv"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vignette.wikia.nocookie.net": {
+    "hostname": "vignette.wikia.nocookie.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.wikia.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vm.gtimg.cn": {
+    "hostname": "vm.gtimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vv.video.qq.com": {
+    "hostname": "vv.video.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wa.gtimg.com": {
+    "hostname": "wa.gtimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "weibo.com": {
+    "hostname": "weibo.com",
+    "favicon": "https://weibo.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "passport.weibo.com",
+      "js.t.sinajs.cn",
+      "img.t.sinajs.cn",
+      "js1.t.sinajs.cn",
+      "tva2.sinaimg.cn",
+      "tva4.sinaimg.cn",
+      "tva3.sinaimg.cn",
+      "tva1.sinaimg.cn",
+      "ww4.sinaimg.cn",
+      "tvax4.sinaimg.cn",
+      "wx2.sinaimg.cn",
+      "dslb.cdn.krcom.cn",
+      "wx4.sinaimg.cn",
+      "wx1.sinaimg.cn",
+      "tvax3.sinaimg.cn",
+      "wx3.sinaimg.cn",
+      "jss.t.sinajs.cn",
+      "login.taobao.com",
+      "g.alicdn.com",
+      "login.sina.com.cn",
+      "log.mmstat.com",
+      "aeu.alicdn.com",
+      "ynuf.alipay.com",
+      "s.weibo.com",
+      "rm.api.weibo.com",
+      "sbeacon.sina.com.cn"
+    ]
+  },
+  "widgets.outbrain.com": {
+    "hostname": "widgets.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.msn.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wis.qq.com": {
+    "hostname": "wis.qq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wl.jd.com": {
+    "hostname": "wl.jd.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "global.jd.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wmcdn.qtmojo.cn": {
+    "hostname": "wmcdn.qtmojo.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wmt.qtmojo.com": {
+    "hostname": "wmt.qtmojo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.qq.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wn.pos.baidu.com": {
+    "hostname": "wn.pos.baidu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com",
+      "www.sina.com.cn",
+      "www.youth.cn",
+      "www.hao123.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "woocall.sina.com.cn": {
+    "hostname": "woocall.sina.com.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wordpress.com": {
+    "hostname": "wordpress.com",
+    "favicon": "https://s1.wp.com/i/favicon.ico?v=1447321881",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "bat.bing.com",
+      "www.clickcease.com",
+      "refer.wordpress.com",
+      "static.ads-twitter.com",
+      "www.google-analytics.com",
+      "mc.yandex.ru",
+      "s1.wp.com",
+      "fonts.gstatic.com",
+      "googleads.g.doubleclick.net",
+      "www.google.com",
+      "www.google.co.in",
+      "amplify.outbrain.com",
+      "connect.facebook.net",
+      "pixel.quantserve.com",
+      "code.clickcease.com",
+      "www.facebook.com",
+      "tr.outbrain.com",
+      "amplifypixel.outbrain.com",
+      "static.hotjar.com",
+      "vars.hotjar.com",
+      "stats.wp.com",
+      "monitor.clickcease.com",
+      "6355556.fls.doubleclick.net",
+      "pixel.wp.com",
+      "secure.leadback.advertising.com",
+      "8017305.fls.doubleclick.net",
+      "sp.analytics.yahoo.com",
+      "ds.reson8.com",
+      "analytics.twitter.com",
+      "t.co"
+    ]
+  },
+  "world.taobao.com": {
+    "hostname": "world.taobao.com",
+    "favicon": "https://img.alicdn.com/tfs/TB1VlKFRpXXXXcNapXXXXXXXXXX-16-16.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "g.alicdn.com",
+      "log.mmstat.com",
+      "img.alicdn.com",
+      "gw.alicdn.com",
+      "at.alicdn.com",
+      "gm.mmstat.com",
+      "cart.taobao.com",
+      "ald.taobao.com",
+      "ju.taobao.com",
+      "tce.alicdn.com",
+      "tui.taobao.com",
+      "h5api.m.taobao.com",
+      "count.taobao.com"
+    ]
+  },
+  "ww4.sinaimg.cn": {
+    "hostname": "ww4.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www-cdn.whatsapp.net": {
+    "hostname": "www-cdn.whatsapp.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whatsapp.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.360.cn": {
+    "hostname": "www.360.cn",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "p.ssl.qhimg.com",
+      "s.ssl.qhimg.com",
+      "s.ssl.qhmsg.com",
+      "p1.ssl.qhimg.com",
+      "p2.ssl.qhimg.com",
+      "p3.ssl.qhimg.com",
+      "p0.ssl.qhimg.com",
+      "p4.ssl.qhimg.com",
+      "p5.ssl.qhimg.com",
+      "p.ssl.qhmsg.com",
+      "login.360.cn",
+      "mbsug.ssl.so.com"
+    ]
+  },
+  "www.adobe.com": {
+    "hostname": "www.adobe.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "assets.adobedtm.com"
+    ]
+  },
+  "www.aliexpress.com": {
+    "hostname": "www.aliexpress.com",
+    "favicon": "https://ae01.alicdn.com/images/eng/wholesale/icon/aliexpress.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "i.alicdn.com",
+      "ae01.alicdn.com",
+      "assets.alicdn.com",
+      "is.alicdn.com",
+      "aelego.aliexpress.com",
+      "cdp.aliexpress.com",
+      "gj.mmstat.com",
+      "gpsfront.aliexpress.com",
+      "passport.alipay.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "www.facebook.com",
+      "translate.google.com",
+      "translate.googleapis.com",
+      "www.gstatic.com",
+      "www.google.com",
+      "lighthouse.aliexpress.com",
+      "g.alicdn.com",
+      "dis.us.criteo.com",
+      "perf.mmstat.com"
+    ]
+  },
+  "www.alipay.com": {
+    "hostname": "www.alipay.com",
+    "favicon": "https://i.alipayobjects.com/common/favicon/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "zos.alipayobjects.com",
+      "img.alicdn.com"
+    ]
+  },
+  "www.amazon.co.jp": {
+    "hostname": "www.amazon.co.jp",
+    "favicon": "https://www.amazon.co.jp/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "images-fe.ssl-images-amazon.com",
+      "m.media-amazon.com",
+      "images-na.ssl-images-amazon.com"
+    ]
+  },
+  "www.amazon.com": {
+    "hostname": "www.amazon.com",
+    "favicon": "https://www.amazon.com/favicon.ico",
+    "firstPartyHostnames": [
+      "www.imdb.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "images-na.ssl-images-amazon.com",
+      "m.media-amazon.com",
+      "s.amazon-adsystem.com",
+      "fls-na.amazon.com"
+    ]
+  },
+  "www.amazon.de": {
+    "hostname": "www.amazon.de",
+    "favicon": "https://www.amazon.de/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "images-eu.ssl-images-amazon.com",
+      "m.media-amazon.com",
+      "aax-eu.amazon-adsystem.com",
+      "images-na.ssl-images-amazon.com",
+      "unagi-eu.amazon.com",
+      "completion.amazon.co.uk"
+    ]
+  },
+  "www.amazon.in": {
+    "hostname": "www.amazon.in",
+    "favicon": "https://www.amazon.in/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "images-eu.ssl-images-amazon.com",
+      "m.media-amazon.com",
+      "images-na.ssl-images-amazon.com",
+      "fls-eu.amazon.in",
+      "dz1vmszs6rjp8.cloudfront.net",
+      "aan.amazon.in",
+      "aax-eu.amazon-adsystem.com",
+      "unagi-eu.amazon.com",
+      "completion.amazon.co.uk"
+    ]
+  },
+  "www.apple.com": {
+    "hostname": "www.apple.com",
+    "favicon": "https://www.apple.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "images.apple.com",
+      "securemetrics.apple.com"
+    ]
+  },
+  "www.baidu.com": {
+    "hostname": "www.baidu.com",
+    "favicon": "http://www.baidu.com/favicon.ico",
+    "firstPartyHostnames": [
+      "baidu.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "s1.bdstatic.com"
+    ]
+  },
+  "www.bing.com": {
+    "hostname": "www.bing.com",
+    "favicon": "https://www.bing.com/sa/simg/bing_p_rr_teal_min.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.blogger.com": {
+    "hostname": "www.blogger.com",
+    "favicon": "https://www.blogger.com/about/favicon/favicon-32x32.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google-analytics.com",
+      "fonts.gstatic.com",
+      "ajax.googleapis.com"
+    ]
+  },
+  "www.clickcease.com": {
+    "hostname": "www.clickcease.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.csdn.net": {
+    "hostname": "www.csdn.net",
+    "favicon": "https://csdnimg.cn/public/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "sdk.appadhoc.com",
+      "csdnimg.cn",
+      "avatar.csdn.net",
+      "hm.baidu.com",
+      "img-ads.csdn.net",
+      "goutong.baidu.com",
+      "experiment.appadhoc.com",
+      "pv.csdn.net",
+      "re.csdn.net",
+      "ads.csdn.net",
+      "beacon.tingyun.com"
+    ]
+  },
+  "www.dropbox.com": {
+    "hostname": "www.dropbox.com",
+    "favicon": "https://cfl.dropboxstatic.com/static/images/favicon-vflUeLeeY.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cfl.dropboxstatic.com",
+      "marketing.dropbox.com",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "www.googleadservices.com",
+      "b92.yahoo.co.jp",
+      "s.yimg.com",
+      "snap.licdn.com",
+      "googleads.g.doubleclick.net",
+      "8166291.fls.doubleclick.net",
+      "connect.facebook.net",
+      "bid.g.doubleclick.net",
+      "www.google.com",
+      "www.google.co.in",
+      "static.ads-twitter.com"
+    ]
+  },
+  "www.ebay.com": {
+    "hostname": "www.ebay.com",
+    "favicon": "https://pages.ebay.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ir.ebaystatic.com",
+      "secureinclude.ebaystatic.com",
+      "i.ebayimg.com",
+      "www.googletagservices.com",
+      "securepubads.g.doubleclick.net",
+      "adservice.google.co.in",
+      "adservice.google.com",
+      "thumbs.ebaystatic.com",
+      "srv.main.ebayrtm.com",
+      "stags.bluekai.com",
+      "tpc.googlesyndication.com",
+      "pagead2.googlesyndication.com",
+      "ad.doubleclick.net",
+      "www.google.com",
+      "pixel.mathtag.com",
+      "googleads.g.doubleclick.net",
+      "assets.adobedtm.com",
+      "d.agkn.com",
+      "dpm.demdex.net",
+      "ebayinc.demdex.net",
+      "token.rubiconproject.com"
+    ]
+  },
+  "www.espn.com": {
+    "hostname": "www.espn.com",
+    "favicon": "http://www.espn.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "a.espncdn.com"
+    ]
+  },
+  "www.espn.in": {
+    "hostname": "www.espn.in",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "a.espncdn.com",
+      "www.googletagservices.com",
+      "adservice.google.co.in",
+      "adservice.google.com",
+      "securepubads.g.doubleclick.net",
+      "a1.espncdn.com"
+    ]
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "https://static.xx.fbcdn.net/rsrc.php/yl/r/H3nktOa7ZMg.ico",
+    "firstPartyHostnames": [
+      "www.instagram.com",
+      "www.netflix.com",
+      "imgur.com",
+      "www.aliexpress.com",
+      "wordpress.com",
+      "www.imdb.com",
+      "www.pinterest.com",
+      "www.nicovideo.jp",
+      "coccoc.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "static.xx.fbcdn.net"
+    ]
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "twitter.com",
+      "imgur.com",
+      "www.tumblr.com",
+      "www.aliexpress.com",
+      "wordpress.com",
+      "stackoverflow.com",
+      "github.com",
+      "gmw.cn",
+      "www.wikia.com",
+      "www.blogger.com",
+      "www.paypal.com",
+      "www.whatsapp.com",
+      "coccoc.com",
+      "www.dropbox.com",
+      "www.uptodown.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.ca": {
+    "hostname": "www.google.ca",
+    "favicon": "https://www.google.ca/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "adservice.google.ca",
+      "www.gstatic.com",
+      "apis.google.com"
+    ]
+  },
+  "www.google.co.id": {
+    "hostname": "www.google.co.id",
+    "favicon": "https://www.google.co.id/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.gstatic.com",
+      "apis.google.com",
+      "adservice.google.co.id"
+    ]
+  },
+  "www.google.co.in": {
+    "hostname": "www.google.co.in",
+    "favicon": "https://www.google.co.in/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.reddit.com",
+      "wordpress.com",
+      "www.onclkds.com",
+      "coccoc.com",
+      "www.dropbox.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "adservice.google.co.in",
+      "www.gstatic.com",
+      "apis.google.com"
+    ]
+  },
+  "www.google.co.jp": {
+    "hostname": "www.google.co.jp",
+    "favicon": "https://www.google.co.jp/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "adservice.google.co.jp",
+      "www.gstatic.com",
+      "apis.google.com"
+    ]
+  },
+  "www.google.co.uk": {
+    "hostname": "www.google.co.uk",
+    "favicon": "https://www.google.co.uk/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "adservice.google.co.uk",
+      "www.gstatic.com",
+      "apis.google.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "https://www.google.com/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": [
+      "in.yahoo.com",
+      "www.youtube.com",
+      "www.reddit.com",
+      "www.google.fr",
+      "www.google.co.uk",
+      "www.google.ru",
+      "www.google.it",
+      "www.google.es",
+      "www.ebay.com",
+      "www.aliexpress.com",
+      "www.msn.com",
+      "www.onclkds.com",
+      "wordpress.com",
+      "www.google.com.au",
+      "www.google.com.tw",
+      "www.google.com.tr",
+      "www.google.pl",
+      "www.google.com.ar",
+      "www.googleusercontent.com",
+      "coccoc.com",
+      "www.pixnet.net",
+      "www.dropbox.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "adservice.google.com",
+      "www.gstatic.com",
+      "apis.google.com"
+    ]
+  },
+  "www.google.com.ar": {
+    "hostname": "www.google.com.ar",
+    "favicon": "https://www.google.com.ar/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.gstatic.com",
+      "ssl.gstatic.com",
+      "www.google.com",
+      "apis.google.com"
+    ]
+  },
+  "www.google.com.au": {
+    "hostname": "www.google.com.au",
+    "favicon": "https://www.google.com.au/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.gstatic.com",
+      "www.google.com",
+      "adservice.google.com.au",
+      "apis.google.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "www.google.com.br": {
+    "hostname": "www.google.com.br",
+    "favicon": "https://www.google.com.br/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "adservice.google.com.br",
+      "www.gstatic.com",
+      "apis.google.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "www.google.com.hk": {
+    "hostname": "www.google.com.hk",
+    "favicon": "https://www.google.com.hk/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "adservice.google.com.hk",
+      "www.gstatic.com",
+      "apis.google.com"
+    ]
+  },
+  "www.google.com.mx": {
+    "hostname": "www.google.com.mx",
+    "favicon": "https://www.google.com.mx/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "adservice.google.com.mx",
+      "www.gstatic.com",
+      "apis.google.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "www.google.com.pk": {
+    "hostname": "www.google.com.pk",
+    "favicon": "https://www.google.com.pk/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.gstatic.com",
+      "ssl.gstatic.com",
+      "apis.google.com",
+      "adservice.google.com.pk"
+    ]
+  },
+  "www.google.com.tr": {
+    "hostname": "www.google.com.tr",
+    "favicon": "https://www.google.com.tr/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.gstatic.com",
+      "ssl.gstatic.com",
+      "apis.google.com",
+      "www.google.com",
+      "adservice.google.com.tr"
+    ]
+  },
+  "www.google.com.tw": {
+    "hostname": "www.google.com.tw",
+    "favicon": "https://www.google.com.tw/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.gstatic.com",
+      "www.google.com",
+      "adservice.google.com.tw",
+      "apis.google.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "www.google.com.ua": {
+    "hostname": "www.google.com.ua",
+    "favicon": "https://www.google.com.ua/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.gstatic.com",
+      "apis.google.com",
+      "adservice.google.com.ua"
+    ]
+  },
+  "www.google.de": {
+    "hostname": "www.google.de",
+    "favicon": "https://www.google.de/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "adservice.google.de",
+      "www.gstatic.com",
+      "apis.google.com"
+    ]
+  },
+  "www.google.es": {
+    "hostname": "www.google.es",
+    "favicon": "https://www.google.es/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "adservice.google.es",
+      "www.gstatic.com",
+      "apis.google.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "www.google.fr": {
+    "hostname": "www.google.fr",
+    "favicon": "https://www.google.fr/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "adservice.google.fr",
+      "www.gstatic.com",
+      "apis.google.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "www.google.it": {
+    "hostname": "www.google.it",
+    "favicon": "https://www.google.it/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "adservice.google.it",
+      "www.gstatic.com",
+      "apis.google.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "www.google.pl": {
+    "hostname": "www.google.pl",
+    "favicon": "https://www.google.pl/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.gstatic.com",
+      "ssl.gstatic.com",
+      "apis.google.com",
+      "www.google.com",
+      "adservice.google.pl"
+    ]
+  },
+  "www.google.ru": {
+    "hostname": "www.google.ru",
+    "favicon": "https://www.google.ru/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "adservice.google.ru",
+      "www.gstatic.com",
+      "apis.google.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.netflix.com",
+      "www.onclkds.com",
+      "coccoc.com",
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com",
+      "coccoc.com",
+      "www.dropbox.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.ebay.com",
+      "www.twitch.tv",
+      "www.wikia.com",
+      "diply.com",
+      "www.espn.in",
+      "www.uptodown.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleusercontent.com": {
+    "hostname": "www.googleusercontent.com",
+    "favicon": "http://www.googleusercontent.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com"
+    ]
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.co.in",
+      "www.google.com",
+      "www.google.co.jp",
+      "www.google.fr",
+      "www.google.co.uk",
+      "www.google.de",
+      "www.google.ru",
+      "www.google.com.br",
+      "www.google.com.hk",
+      "www.google.it",
+      "www.google.es",
+      "www.google.ca",
+      "www.google.com.mx",
+      "www.twitch.tv",
+      "www.aliexpress.com",
+      "www.onclkds.com",
+      "www.google.com.au",
+      "www.google.com.tw",
+      "www.pinterest.com",
+      "www.google.com.tr",
+      "www.google.pl",
+      "www.google.co.id",
+      "www.google.com.ar",
+      "coccoc.com",
+      "www.google.com.pk",
+      "www.google.com.ua",
+      "www.pixnet.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.hao123.com": {
+    "hostname": "www.hao123.com",
+    "favicon": "https://www.hao123.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fex.bdstatic.com",
+      "gss0.bdstatic.com",
+      "gss2.bdstatic.com",
+      "gss1.bdstatic.com",
+      "passport.baidu.com",
+      "p.baidu.com",
+      "gsp1.baidu.com",
+      "cpro.baidustatic.com",
+      "pos.baidu.com",
+      "wn.pos.baidu.com",
+      "m.hao123.com",
+      "dup.baidustatic.com",
+      "gsp0.baidu.com",
+      "eclick.baidu.com"
+    ]
+  },
+  "www.imdb.com": {
+    "hostname": "www.imdb.com",
+    "favicon": "https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB522736561_.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "images-na.ssl-images-amazon.com",
+      "ia.media-imdb.com",
+      "platform.twitter.com",
+      "fls-na.amazon.com",
+      "connect.facebook.net",
+      "syndication.twitter.com",
+      "s.media-imdb.com",
+      "aax-eu.amazon-adsystem.com",
+      "cdn.syndication.twimg.com",
+      "staticxx.facebook.com",
+      "www.amazon.com",
+      "sb.scorecardresearch.com",
+      "www.facebook.com",
+      "pbs.twimg.com",
+      "abs.twimg.com",
+      "static.xx.fbcdn.net",
+      "scontent-bom1-1.xx.fbcdn.net",
+      "ton.twimg.com"
+    ]
+  },
+  "www.instagram.com": {
+    "hostname": "www.instagram.com",
+    "favicon": "https://www.instagram.com/static/images/ico/favicon.ico/dfa85bb1fd63.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.facebook.com",
+      "connect.facebook.net",
+      "staticxx.facebook.com"
+    ]
+  },
+  "www.linkedin.com": {
+    "hostname": "www.linkedin.com",
+    "favicon": "https://static-exp2.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "sb.scorecardresearch.com",
+      "i2-nhykgmunwnoczudicvwmyxdzkcnnzn.init.cedexis-radar.net",
+      "rpt.cedexis.com"
+    ]
+  },
+  "www.microsoft.com": {
+    "hostname": "www.microsoft.com",
+    "favicon": "https://c.s-microsoft.com/favicon.ico?v2",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "mem.gfx.ms",
+      "img-prod-cms-rt-microsoft-com.akamaized.net",
+      "assets.onestore.ms",
+      "c.go-mpulse.net",
+      "36fb61b0.akstat.io",
+      "dpm.demdex.net",
+      "mscom.demdex.net",
+      "analytics.twitter.com",
+      "idpix.media6degrees.com",
+      "auth.gfx.ms"
+    ]
+  },
+  "www.msn.com": {
+    "hostname": "www.msn.com",
+    "favicon": "https://www.msn.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "static-global-s-msn-com.akamaized.net",
+      "acdn.adnxs.com",
+      "m.adnxs.com",
+      "sin1-ib.adnxs.com",
+      "secure.adnxs.com",
+      "cdn.adnxs.com",
+      "googleads.g.doubleclick.net",
+      "match.adsrvr.org",
+      "widgets.outbrain.com",
+      "pagead2.googlesyndication.com",
+      "cms.quantserve.com",
+      "vcdn.adnxs.com",
+      "sync.search.spotxchange.com",
+      "t.wayfair.com",
+      "dis.criteo.com",
+      "s.amazon-adsystem.com",
+      "dsum-sec.casalemedia.com",
+      "sync.teads.tv",
+      "tpc.googlesyndication.com",
+      "www.google.com",
+      "p.rfihub.com",
+      "dh.serving-sys.com",
+      "cm.adform.net",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "r.turn.com",
+      "rtb-csync.smartadserver.com",
+      "pixel.rubiconproject.com"
+    ]
+  },
+  "www.netflix.com": {
+    "hostname": "www.netflix.com",
+    "favicon": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "assets.nflxext.com",
+      "codex.nflxext.com",
+      "adtech.nflximg.net",
+      "s.thebrighttag.com",
+      "ethn.io",
+      "s.btstatic.com",
+      "www.googleadservices.com",
+      "www.googletagmanager.com",
+      "www.facebook.com",
+      "4954221.fls.doubleclick.net",
+      "4953227.fls.doubleclick.net"
+    ]
+  },
+  "www.nicovideo.jp": {
+    "hostname": "www.nicovideo.jp",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "nicovideo.cdn.nimg.jp",
+      "nicolive.cdn.nimg.jp",
+      "cdn.optimizely.com",
+      "www.facebook.com"
+    ]
+  },
+  "www.office.com": {
+    "hostname": "www.office.com",
+    "favicon": "https://seaofficehome.msocdn.com/s/7047452e/Images/favicon_metro.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "mem.gfx.ms"
+    ]
+  },
+  "www.onclkds.com": {
+    "hostname": "www.onclkds.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.googleadservices.com",
+      "www.google.com",
+      "www.gstatic.com",
+      "googleads.g.doubleclick.net",
+      "www.google.co.in",
+      "fonts.gstatic.com"
+    ]
+  },
+  "www.paypal.com": {
+    "hostname": "www.paypal.com",
+    "favicon": "https://www.paypalobjects.com/webstatic/icon/pp32.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.paypalobjects.com",
+      "nexus.ensighten.com",
+      "t.paypal.com",
+      "ad.doubleclick.net",
+      "www.google-analytics.com"
+    ]
+  },
+  "www.paypalobjects.com": {
+    "hostname": "www.paypalobjects.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.paypal.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.pinterest.com": {
+    "hostname": "www.pinterest.com",
+    "favicon": "https://www.pinterest.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "s.pinimg.com",
+      "apis.google.com",
+      "sdk.accountkit.com",
+      "connect.facebook.net",
+      "www.gstatic.com",
+      "staticxx.facebook.com",
+      "accounts.google.com",
+      "ssl.gstatic.com",
+      "www.facebook.com",
+      "static.xx.fbcdn.net"
+    ]
+  },
+  "www.pixnet.net": {
+    "hostname": "www.pixnet.net",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "mainpage.pixfs.net",
+      "s.pixfs.net",
+      "libs.pixfs.net",
+      "www.google.com",
+      "s7.pimg.tw",
+      "s8.pimg.tw",
+      "imageproxy.pimg.tw",
+      "s4.pimg.tw",
+      "s5.pimg.tw",
+      "s2.pimg.tw",
+      "api.pixnet.cc",
+      "d31qbv1cthcecs.cloudfront.net",
+      "www.gstatic.com",
+      "s.pixanalytics.com",
+      "fonts.gstatic.com",
+      "s9.pimg.tw",
+      "s6.pimg.tw",
+      "s1.pimg.tw",
+      "s3.pimg.tw",
+      "s.pimg.tw",
+      "stats.g.doubleclick.net",
+      "cdn.mxpnl.com"
+    ]
+  },
+  "www.popads.net": {
+    "hostname": "www.popads.net",
+    "favicon": "https://www.popads.net/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "popads-trustguard.cdn77-ssl.net",
+      "ssl.google-analytics.com"
+    ]
+  },
+  "www.qq.com": {
+    "hostname": "www.qq.com",
+    "favicon": "http://mat1.gtimg.com/www/icon/favicon2.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "mat1.gtimg.com",
+      "img1.gtimg.com",
+      "inews.gtimg.com",
+      "pingjs.qq.com",
+      "imgcache.qq.com",
+      "ra.gtimg.com",
+      "js.aq.qq.com",
+      "jsqmt.qq.com",
+      "qzonestyle.gtimg.cn",
+      "vm.gtimg.cn",
+      "js.data.auto.qq.com",
+      "imgnode.gtimg.cn",
+      "mini2015.qq.com",
+      "pingfore.qq.com",
+      "trace.qq.com",
+      "btrace.qq.com",
+      "fw.qq.com",
+      "btrace.video.qq.com",
+      "qos.report.qq.com",
+      "l.qq.com",
+      "app.data.qq.com",
+      "i.match.qq.com",
+      "wa.gtimg.com",
+      "pingtcss.qq.com",
+      "p.l.qq.com",
+      "qt.gtimg.cn",
+      "wis.qq.com",
+      "h5like.qq.com",
+      "1.qtmojo.com",
+      "wmcdn.qtmojo.cn",
+      "ui.ptlogin2.qq.com",
+      "vv.video.qq.com",
+      "i.gtimg.cn",
+      "mmae.qtmojo.com",
+      "wmt.qtmojo.com",
+      "jqmt.qq.com",
+      "v.qq.com",
+      "dp3.qq.com",
+      "cm.l.qq.com"
+    ]
+  },
+  "www.reddit.com": {
+    "hostname": "www.reddit.com",
+    "favicon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.redditstatic.com",
+      "b.thumbs.redditmedia.com",
+      "a.thumbs.redditmedia.com",
+      "www.redditmedia.com",
+      "ssl.google-analytics.com",
+      "www.google-analytics.com",
+      "www.googletagservices.com",
+      "c.amazon-adsystem.com",
+      "adservice.google.co.in",
+      "adservice.google.com",
+      "securepubads.g.doubleclick.net",
+      "www.googleadservices.com",
+      "secure.quantserve.com",
+      "sb.scorecardresearch.com",
+      "rules.quantcount.com",
+      "googleads.g.doubleclick.net",
+      "www.google.com",
+      "aax.amazon-adsystem.com",
+      "www.google.co.in",
+      "tpc.googlesyndication.com",
+      "pagead2.googlesyndication.com",
+      "s0.2mdn.net",
+      "cm.g.doubleclick.net",
+      "googleads4.g.doubleclick.net",
+      "pixel.quantserve.com"
+    ]
+  },
+  "www.redditmedia.com": {
+    "hostname": "www.redditmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.redditstatic.com": {
+    "hostname": "www.redditstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.sina.com.cn": {
+    "hostname": "www.sina.com.cn",
+    "favicon": "http://www.sina.com.cn/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "n.sinaimg.cn",
+      "news.sina.com.cn",
+      "int.dpool.sina.com.cn",
+      "beacon.sina.com.cn",
+      "i0.sinaimg.cn",
+      "i1.sinaimg.cn",
+      "i2.sinaimg.cn",
+      "i3.sinaimg.cn",
+      "d3.sina.com.cn",
+      "src.leju.com",
+      "i11.esfimg.com",
+      "i.sso.sina.com.cn",
+      "d8.sina.com.cn",
+      "auto.sina.com.cn",
+      "image.sinajs.cn",
+      "d2.sina.com.cn",
+      "adm.leju.com",
+      "hq.sinajs.cn",
+      "finance.sina.com.cn",
+      "open.weather.sina.com.cn",
+      "d1.sina.com.cn",
+      "s.weibo.com",
+      "d6.sina.com.cn",
+      "cre.mix.sina.com.cn",
+      "z0.sinaimg.cn",
+      "interest.mix.sina.com.cn",
+      "woocall.sina.com.cn",
+      "current.sina.com.cn",
+      "phs.tanx.com",
+      "sax.sina.com.cn",
+      "d9.sina.com.cn",
+      "opehs.tanx.com",
+      "a1.alicdn.com",
+      "www.sinaimg.cn",
+      "atanx.alicdn.com",
+      "slog.sina.com.cn",
+      "z4.sinaimg.cn",
+      "z5.sinaimg.cn",
+      "df.tanx.com",
+      "z9.sinaimg.cn",
+      "m.simba.taobao.com",
+      "saxn.sina.com.cn",
+      "newspush.sinajs.cn",
+      "gma.alicdn.com",
+      "gtms04.alicdn.com",
+      "screen.aili.com",
+      "cpro.baidustatic.com",
+      "d1.sinaimg.cn",
+      "pos.baidu.com",
+      "f10.baidu.com",
+      "f12.baidu.com",
+      "f11.baidu.com",
+      "s3.pfp.sina.net",
+      "wn.pos.baidu.com",
+      "strip.alicdn.com",
+      "dup.baidustatic.com",
+      "passport.weibo.com",
+      "img.adbox.sina.com.cn",
+      "img.alicdn.com",
+      "show.re.taobao.com",
+      "adbox.sina.com.cn",
+      "d2.leju.com",
+      "t11.baidu.com",
+      "eclick.baidu.com",
+      "s22.cnzz.com",
+      "gtms03.alicdn.com",
+      "z1.cnzz.com",
+      "c.cnzz.com",
+      "gtms01.alicdn.com"
+    ]
+  },
+  "www.sinaimg.cn": {
+    "hostname": "www.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.so.com": {
+    "hostname": "www.so.com",
+    "favicon": "https://s.ssl.qhres.com/static/52166db8c450f68d.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "p.ssl.qhimg.com",
+      "s.qhupdate.com",
+      "notify.ssl.so.com",
+      "socm.dmp.360.cn",
+      "open.onebox.so.com"
+    ]
+  },
+  "www.sohu.com": {
+    "hostname": "www.sohu.com",
+    "favicon": "http://statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "img.mp.sohu.com",
+      "5b0988e595225.cdn.sohucs.com",
+      "statics.itc.cn",
+      "txt.go.sohu.com",
+      "js.sohu.com",
+      "images.sohu.com",
+      "39d0825d09f05.cdn.sohucs.com",
+      "k.sohu.com",
+      "m1.auto.itc.cn",
+      "file.focus-res.cn",
+      "news.sohu.com",
+      "pl.hd.sohu.com",
+      "v2.sohu.com",
+      "hotword.sogoucdn.com",
+      "adv-sv-show.focus.cn",
+      "t4.focus-img.cn",
+      "ydgf.sohu.com",
+      "pv.sohu.com",
+      "sports.sohu.com",
+      "match.sports.sohu.com",
+      "i3.itc.cn",
+      "i0.itc.cn",
+      "i2.itc.cn",
+      "v4.passport.sohu.com",
+      "i1.itc.cn",
+      "imp.go.sohu.com",
+      "imp.optaim.com",
+      "d1.biz.itc.cn",
+      "s.go.sohu.com",
+      "cpro.baidustatic.com",
+      "t.go.sohu.com",
+      "t1.focus-img.cn",
+      "hqm.stock.sohu.com",
+      "t2.focus-img.cn",
+      "t3.focus-img.cn",
+      "phs.tanx.com",
+      "imp.ad-plus.cn",
+      "atanx.alicdn.com",
+      "i.go.sohu.com",
+      "static-alias-1.360buyimg.com",
+      "opehs.tanx.com",
+      "adv-sv-stat.focus.cn",
+      "pos.baidu.com",
+      "f12.baidu.com",
+      "t11.baidu.com",
+      "f10.baidu.com",
+      "f11.baidu.com",
+      "t12.baidu.com",
+      "x.jd.com",
+      "img1.360buyimg.com",
+      "a1.alicdn.com",
+      "px.3.cn",
+      "ckm.iqiyi.com",
+      "wn.pos.baidu.com",
+      "dup.baidustatic.com",
+      "im-x.jd.com",
+      "df.tanx.com",
+      "m.simba.taobao.com",
+      "eclick.baidu.com",
+      "gtms03.alicdn.com",
+      "gtms04.alicdn.com",
+      "gma.alicdn.com",
+      "gtms01.alicdn.com",
+      "gtms02.alicdn.com"
+    ]
+  },
+  "www.tianya.cn": {
+    "hostname": "www.tianya.cn",
+    "favicon": "http://www.tianya.cn/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "d31qbv1cthcecs.cloudfront.net",
+      "passport.tianya.cn",
+      "dol.tianya.cn",
+      "static.tianyaui.com",
+      "aic.hainan.gov.cn",
+      "hm.baidu.com",
+      "certify.alexametrics.com",
+      "collect.tianya.cn"
+    ]
+  },
+  "www.tmall.com": {
+    "hostname": "www.tmall.com",
+    "favicon": "https://img.alicdn.com/tfs/TB1XlF3RpXXXXc6XXXXXXXXXXXX-16-16.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "g.alicdn.com",
+      "img.alicdn.com",
+      "at.alicdn.com",
+      "log.mmstat.com",
+      "gm.mmstat.com",
+      "aldh5.tmall.com",
+      "ac.mmstat.com",
+      "top-tmm.taobao.com",
+      "suggest.taobao.com",
+      "pages.tmall.com",
+      "p.tanx.com",
+      "atanx.alicdn.com",
+      "bar.tmall.com",
+      "fourier.alibaba.com",
+      "tmm.taobao.com",
+      "fragment.tmall.com",
+      "count.taobao.com",
+      "ecpm.tanx.com",
+      "aecpm.alicdn.com"
+    ]
+  },
+  "www.tns-counter.ru": {
+    "hostname": "www.tns-counter.ru",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yandex.ru",
+      "mail.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.tumblr.com": {
+    "hostname": "www.tumblr.com",
+    "favicon": "https://assets.tumblr.com/images/favicons/favicon.ico?_v=b45846535fb3e72144f09ddd9ad69b4b",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "sb.scorecardresearch.com",
+      "ssl.google-analytics.com",
+      "www.google-analytics.com",
+      "i2-driihkyprvkduxpmdfdkeazxyxycgk.init.cedexis-radar.net",
+      "rpt.cedexis.com",
+      "s.pinimg.com"
+    ]
+  },
+  "www.twitch.tv": {
+    "hostname": "www.twitch.tv",
+    "favicon": "https://static.twitchcdn.net/assets/favicon-75270f9df2b07174c23ce844a03d84af.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "static.twitchcdn.net",
+      "ad.doubleclick.net",
+      "irc-ws.chat.twitch.tv",
+      "spade.twitch.tv",
+      "pubsub-edge.twitch.tv",
+      "gql.twitch.tv",
+      "static-cdn.jtvnw.net",
+      "client-event-reporter.twitch.tv",
+      "player.twitch.tv",
+      "imasdk.googleapis.com",
+      "video-edge-aa1a42.sjc01.hls.ttvnw.net",
+      "s.jtvnw.net",
+      "www.gstatic.com",
+      "api.twitch.tv",
+      "cvp.twitch.tv",
+      "video-edge-3d7ae4.sjc01.hls.ttvnw.net",
+      "sb.scorecardresearch.com",
+      "c.amazon-adsystem.com",
+      "ssl.google-analytics.com",
+      "s0.2mdn.net",
+      "www.googletagservices.com",
+      "countess.twitch.tv",
+      "adservice.google.co.in",
+      "adservice.google.com",
+      "securepubads.g.doubleclick.net",
+      "usher.ttvnw.net",
+      "pagead2.googlesyndication.com",
+      "api.mixpanel.com",
+      "video-weaver.hkg01.hls.ttvnw.net"
+    ]
+  },
+  "www.uptodown.com": {
+    "hostname": "www.uptodown.com",
+    "favicon": "https://stc.utdstc.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "stc.utdstc.com",
+      "img.utdstc.com",
+      "www.googletagservices.com",
+      "www.google-analytics.com",
+      "adservice.google.co.in",
+      "adservice.google.com"
+    ]
+  },
+  "www.whatsapp.com": {
+    "hostname": "www.whatsapp.com",
+    "favicon": "https://whatsapp.com/favicon.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www-cdn.whatsapp.net",
+      "www.google-analytics.com"
+    ]
+  },
+  "www.wikia.com": {
+    "hostname": "www.wikia.com",
+    "favicon": "https://static.wikia.nocookie.net/qube-assets/f2/2692/favicons/favicon-32x32.png?v=a38773b41d899402bff500e56514574de0e08389",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "vignette.wikia.nocookie.net",
+      "s3.amazonaws.com",
+      "d1z2jf7jlzjs58.cloudfront.net",
+      "www.google-analytics.com",
+      "www.googletagservices.com",
+      "rules.quantcount.com",
+      "cdn.krxd.net",
+      "adservice.google.com",
+      "adservice.google.co.in",
+      "securepubads.g.doubleclick.net",
+      "b.scorecardresearch.com",
+      "fandom.wikia.com",
+      "fonts.gstatic.com",
+      "pixel.quantserve.com",
+      "srv-2018-02-23-21.config.parsely.com",
+      "beacon.wikia-services.com",
+      "beacon.krxd.net",
+      "static.parsely.com",
+      "srv-2018-02-23-21.pixel.parsely.com",
+      "ads.yahoo.com",
+      "secure-us.imrworldwide.com",
+      "apiservices.krxd.net"
+    ]
+  },
+  "www.wikipedia.org": {
+    "hostname": "www.wikipedia.org",
+    "favicon": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.yahoo.co.jp": {
+    "hostname": "www.yahoo.co.jp",
+    "favicon": "https://www.yahoo.co.jp/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "yj-a.p.adnxs.com",
+      "sin1-ib.adnxs.com"
+    ]
+  },
+  "www.youth.cn": {
+    "hostname": "www.youth.cn",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "d31qbv1cthcecs.cloudfront.net",
+      "pb1.qujishu.com",
+      "search.szfw.org",
+      "cpro.baidustatic.com",
+      "cl5.webterren.com",
+      "cl.webterren.com",
+      "news.youth.cn",
+      "d.webterren.com",
+      "certify.alexametrics.com",
+      "pos.baidu.com",
+      "hm.baidu.com",
+      "t11.baidu.com",
+      "f12.baidu.com",
+      "f11.baidu.com",
+      "f10.baidu.com",
+      "p.tanx.com",
+      "atanx.alicdn.com",
+      "t12.baidu.com",
+      "t10.baidu.com",
+      "cl3.webterren.com",
+      "v.trustutn.org",
+      "wn.pos.baidu.com",
+      "opehs.tanx.com",
+      "strip.alicdn.com",
+      "df.tanx.com",
+      "m.simba.taobao.com",
+      "img.alicdn.com",
+      "gma.alicdn.com",
+      "gtms03.alicdn.com",
+      "gtms04.alicdn.com",
+      "gtms01.alicdn.com",
+      "show.re.taobao.com"
+    ]
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "https://s.ytimg.com/yts/img/favicon_32-vflOogEID.png",
+    "firstPartyHostnames": [
+      "coccoc.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "s.ytimg.com",
+      "i.ytimg.com",
+      "www.google.co.in",
+      "googleads.g.doubleclick.net",
+      "www.google.com",
+      "securepubads.g.doubleclick.net",
+      "fonts.gstatic.com",
+      "fonts.googleapis.com",
+      "static.doubleclick.net"
+    ]
+  },
+  "wx1.sinaimg.cn": {
+    "hostname": "wx1.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wx2.sinaimg.cn": {
+    "hostname": "wx2.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wx3.sinaimg.cn": {
+    "hostname": "wx3.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wx4.sinaimg.cn": {
+    "hostname": "wx4.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "x.jd.com": {
+    "hostname": "x.jd.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "yandex.ru": {
+    "hostname": "yandex.ru",
+    "favicon": "https://yastatic.net/iconostasis/_/8lFaTHLDzmsEZz-5XaQg9iTWZGE.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "yastatic.net",
+      "avatars.mds.yandex.net",
+      "www.tns-counter.ru",
+      "awaps.yandex.net",
+      "portal-xiva.yandex.net",
+      "mc.yandex.ru"
+    ]
+  },
+  "yastatic.net": {
+    "hostname": "yastatic.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yandex.ru"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ydgf.sohu.com": {
+    "hostname": "ydgf.sohu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sohu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "yj-a.p.adnxs.com": {
+    "hostname": "yj-a.p.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.yahoo.co.jp"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ynuf.alipay.com": {
+    "hostname": "ynuf.alipay.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "weibo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "z0.sinaimg.cn": {
+    "hostname": "z0.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "z1.cnzz.com": {
+    "hostname": "z1.cnzz.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "z4.sinaimg.cn": {
+    "hostname": "z4.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "z5.sinaimg.cn": {
+    "hostname": "z5.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "z9.sinaimg.cn": {
+    "hostname": "z9.sinaimg.cn",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.sina.com.cn"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "zos.alipayobjects.com": {
+    "hostname": "zos.alipayobjects.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.alipay.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}
