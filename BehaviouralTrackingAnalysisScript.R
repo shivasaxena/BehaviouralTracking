@@ -11,14 +11,14 @@ install.packages("dplyr", dep = TRUE);
 install.packages("ggplot2", dep = TRUE);
 install.packages("rjson", dep = TRUE);
 install.packages("tidyverse", dep = TRUE);
-install.packages("rlist", dep = TRUE);
+install.packages("hashmap", dep = TRUE);
 
 
 library("dplyr");
 library("ggplot2");
 library("rjson");
 library("tidyverse");
-library("rlist");
+library("hashmap");
 
 #Loading RAW JSON data collected for the websites into vaiable.
 raw.data <-
@@ -99,13 +99,36 @@ pie <- pie +
 print(pie);
 
 
-########################### Visited vs Non-Visited Web site ends###################
+########################### Visited vs Non-Visited Web site ends ###################
 
-# find the top 10 websites that have the most number of third connections
+####### find the top 10 websites that have the most number of third connections start #####
 
-third.party.connection
-processed.data %>%
+
+ht <- new.env();
+
+for(site in processed.data.list){
   
+  for(thirdParty in site$thirdParties){
+
+    if(!exists(thirdParty,ht)){
+      assign(thirdParty,0, ht);
+    }
+    value <- get(thirdParty,ht);
+    value <- value + 1;
+    assign(thirdParty,value, ht);
+  }
+  
+}
+
+odf <- as.data.frame(stack(as.list(ht)));
+odf<- odf[with(odf, order(-values)), ]
+odf <- odf[1:10,]
+p <-ggplot(odf, aes(ind, values))
+p <- p +geom_bar(stat = "identity",aes(fill = ind))
+print(p)  
+
+######### find the top 10 websites that have the most number of third connections end #########
+
 
 
 
