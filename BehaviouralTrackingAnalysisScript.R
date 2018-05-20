@@ -130,14 +130,27 @@ print(p)
 ######### find the top 10 websites that have the most number of third connections end #########
 
 
+######### find the average number of third party connections used by the website START ########
+
+site.number = 0;
+third.party.websites = 0;
+for(site in processed.data.list){
+  
+  if(site$firstParty == TRUE){
+    site.number <- site.number+1;
+    third.party.websites <- third.party.websites+ length(site$thirdParties);
+  
+  }
+  
+}
+
+print(site.number);
+print( third.party.websites);
 
 
+######### find the average number of third party connections used by the website END ##########
 
 
-
-
-
-total.visited.sites <- getVisitedSites(raw.data)
 
 
 
