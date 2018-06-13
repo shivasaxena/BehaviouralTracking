@@ -159,7 +159,9 @@ print( third.party.websites);
 
 ###########################################################################################################
 
-calls.to.nonvisited.sites <-  filter(raw.data,
+######################### OLD CODE TO BE REMOVED ###########################
+
+calls.to.nonvisited.sites <-  dplyr::filter(raw.data,
                                      visited == FALSE,
                                      (source != target),
                                      contentType %in% useful.content.types) %>%
