@@ -12,6 +12,7 @@ install.packages("ggplot2", dep = TRUE);
 install.packages("rjson", dep = TRUE);
 install.packages("tidyverse", dep = TRUE);
 install.packages("hashmap", dep = TRUE);
+install.packages("xlsx", dep = TRUE);
 
 
 library("dplyr");
@@ -19,6 +20,8 @@ library("ggplot2");
 library("rjson");
 library("tidyverse");
 library("hashmap");
+library("xlsx");
+
 
 #Loading RAW JSON data collected for the websites into vaiable.
 raw.data <-
@@ -151,7 +154,40 @@ print( third.party.websites);
 ######### find the average number of third party connections used by the website END ##########
 
 
+res <- read.xlsx("research sites 7-sep-17.xlsx", 1)  # read first sheet
 
+############# Find websites that show a message of storing cookies on your machine START  ############################
+count.cookie.message.displayed = 0;
+count.cookie.message.not.displayed = 0;
+for(temp in res$Showed.a.message.of.using.cookies){
+  temp <- trimws(temp);
+  if(!is.na(temp) && temp == 'n'){
+    count.cookie.message.not.displayed <- count.cookie.message.not.displayed +1;
+  }else if(!is.na(temp) && temp == 'y'){
+    count.cookie.message.displayed <- count.cookie.message.displayed +1;
+  }
+}
+print(count.cookie.message.not.displayed);
+print(count.cookie.message.displayed);
+
+#############Find websites that show a message of storing cookies on your machine END ############################
+
+################### count default https  START  ##########################
+count.default.https.true = 0;
+count.default.https.false = 0;
+for(temp in res$Automatically.swithed.to.https){
+  temp <- trimws(temp);
+  if(!is.na(temp) && temp == 'n'){
+    count.default.https.false <- count.default.https.false +1;
+  }else if(!is.na(temp) && temp == 'y'){
+    count.default.https.true <- count.default.https.true +1;
+  }
+}
+print(count.default.https.true);
+print(count.default.https.false);
+
+
+################### count default https  END  ##########################
 
 
 
